@@ -1,0 +1,57 @@
+    1  sudo su
+    2  cd downloads
+    3  pwd
+    4  cd home
+    5  cd ..
+    6  ls
+    7  ls
+    8  cd downloads
+    9  cd Downloads
+   10  ls
+   11  sudo apt install ./code_1.124.2-1781225536_amd64.deb
+   12  code .
+   13  /usr/bin/python3 "/home/demo/Desktop/git proj/testing.py"
+   14  cd downloads
+   15  Downloads
+   16  pwd
+   17  cd ..
+   18  cd Downloads
+   19  ls
+   20  cd ..
+   21  ls
+   22  cd home
+   23  Downloads
+   24  ls
+   25  pwd
+   26  cd /Downloads
+   27  cd testing.py
+   28  ls
+   29  vi testing.py
+   30  ls -l
+   31  /usr/bin/python3 "/home/demo/Desktop/git proj/testing.py"
+   32  git init
+   33  cd .git
+   34  git init
+   35  ls
+   36  git init
+   37  /usr/bin/python3 "/home/demo/Desktop/git proj/testing.py"
+   38  git status
+   39  git add testing.py
+   40  git status
+   41  git rm --cached testing.py
+   42  git status
+   43  git add testing.py
+   44  git commits -m "adding test files to learn"
+   45  git commit -m "add files to learn git "
+   46  git status
+   47  git rm testing.py
+   48  git status
+   49  git restore testing.py
+   50  git restore --staged testing.py
+   51  /usr/bin/python3 "/home/demo/Desktop/git proj/testing.py"
+   52  git restore --staged testing.py
+   53  git status
+   54  git restore testing.py
+   55  clear
+   56  git status
+   57  history
