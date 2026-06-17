@@ -1,4 +1,4 @@
-    1  sudo su
+   1  sudo su
     2  cd downloads
     3  pwd
     4  cd home
@@ -55,3 +55,25 @@
    55  clear
    56  git status
    57  history
+   58  clear
+   59  git status
+   60  git add git_commands.txt
+   61  git comit -m "history of commands"
+   62  git commit -m "history of commands"
+   63  git statsus
+   64  git status
+   65  clear
+   66  /usr/bin/python3 /home/demo/Desktop/git-proj/testing.py
+   67  git remote add origin git@github.com:YutiRaut/git-proj.git
+   68  git branch -M main
+   69  git push origin master 
+   70  git push -u origin main
+   71  clear
+   72  git remote set-url origin https://addyourpersonlaccesstokenheregit@github.com/YutiRaut/git-proj.git
+   73  git remote -v
+   74  git push origin master
+   75  git push orgin main
+   76  git push origin main
+   77  clear
+   78  git push origin main
+   79  history
