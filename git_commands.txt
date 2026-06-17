@@ -1,4 +1,5 @@
-   1  sudo su
+this is commands used by me 
+    1 sudo su
     2  cd downloads
     3  pwd
     4  cd home
