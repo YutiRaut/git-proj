@@ -1,4 +1,4 @@
-this is commands used by me 
+this is commands used by me on today
     1 sudo su
     2  cd downloads
     3  pwd
