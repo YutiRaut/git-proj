@@ -1,1 +1,7 @@
-print("it is a devops tool demo")
+def hello():
+    """
+    hello world 
+    """
+    return "hello"
+
+hello()
